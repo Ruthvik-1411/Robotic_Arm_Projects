@@ -13,3 +13,4 @@ The app is built using the MIT App Inventor and the apk file of the app can be f
 <p>The Link to implementation is <a href="https://drive.google.com/file/d/1Q-p1XTr-33rzzEimCddUQ0EdNb2TqR98/view?usp=sharing">Video Link</a><br>
 The Setup:<br>
 <img src="https://github.com/Ruthvik-1411/Robotic_Arm_Projects/blob/main/Bluetooth_Control/rap_bc%20setup1e.jpg?raw=true" height=350 width=350> &nbsp;&nbsp;<img src="https://github.com/Ruthvik-1411/Robotic_Arm_Projects/blob/main/Bluetooth_Control/rap_bc%20setup2e.jpg?raw=true" height=350 width=350></p>
+<p>This project is inspired and partly taken from the tutorial <a href="https://howtomechatronics.com/tutorials/arduino/diy-arduino-robot-arm-with-smartphone-control/">How to Mechatronics</a></p>
