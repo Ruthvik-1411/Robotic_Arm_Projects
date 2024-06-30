@@ -13,4 +13,4 @@
     The setup: <br><br>
     <img src="https://github.com/Ruthvik-1411/Robotic_Arm_Projects/blob/main/Pot_Control/rap_pc%20setup1e.jpg?raw=true" height=300 width=300> &nbsp;&nbsp;
     <img src="https://github.com/Ruthvik-1411/Robotic_Arm_Projects/blob/main/Pot_Control/rap_pc%20setup2e.jpg?raw=true" height=250 width=300><br><br>
-    The link to the implementation is <a href="https://drive.google.com/file/d/16MAwS7jETSamgmXsnVXvo9Ucmano5-Ov/view?usp=sharing">Video</a>
+    YouTube Demo Link: https://youtu.be/p0rXyVu1yqs
